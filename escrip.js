@@ -1,3 +1,4 @@
+//Funcion
 function khe() {
   var xhttp;
   var url = "http://examenextra.herokuapp.com/Tareas";
